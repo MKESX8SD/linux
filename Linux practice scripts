@@ -76,6 +76,26 @@ fi
 5] TO FIND FACTORIAL OF A NUMBER
 
 
+#!/bin/bash
+echo "Enter a number"
+
+# Read thenumber
+read num
+
+fact=1
+
+for((i=2;i<=num;i++))
+{
+  fact=$((fact * i))
+}
+
+echo $fact
+
+----------------------------------------------------------------------------------------------------
+
+
+
+
 
 
 
