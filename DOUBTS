@@ -4,5 +4,7 @@ GIT PULL AND GIT FETCH
 GIT STASH AND GIT TAG
 CHERRYPICK  
      - Cannot cherrypick a mergr commit
-
+-----------------------------------------------------------
+JENKINS 
+  BUILD TRIGGERS and POLL SCM
 
